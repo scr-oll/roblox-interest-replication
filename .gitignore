@@ -1,0 +1,16 @@
+# Roblox / Studio local
+*.rbxl.lock
+*.rbxlx.lock
+*.rbxl
+*.rbxlx
+sourcemap.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.pem
